@@ -39,7 +39,7 @@ navbar-links:
 # then specify the following parameter
 # title-img: /path/to/image
 # TODO　左上方的头像
-title-img: /img/avatar/aipad.png
+title-img: /img/avatar/aipad.ico
 
 # --- Background colour/image options --- #
 
