@@ -19,6 +19,7 @@ description: 学习中的心得与问题，欢迎讨论
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+# TODO：右上角的about me，第一个选项
 navbar-links:
   About Me: "aboutme"
   Resources:
@@ -28,6 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
+# TODO：网页中央上方的头像
 avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
@@ -37,7 +39,7 @@ avatar: "/img/avatar-icon.png"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-
+# TODO：网页的颜色
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
@@ -59,19 +61,21 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
+# 网页最下方的作者名
 author:
-  name: Some Person
+  name: Soleil
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+# 网页下方的图标，各种联系方式
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  # rss: true
+  email: "yangguang2048@gmail.com"
+  # facebook: deanattali
+  github: soleil0707
+  # twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
