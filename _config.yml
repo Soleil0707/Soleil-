@@ -11,7 +11,7 @@ description: 学习中的心得与问题，欢迎讨论
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-# url: "https://soleil0707.github.io/Soleil-/"
+# url: "https://soleil0707.github.io/"
 
 # baseurl should be an empty string
 # baseurl: ""
@@ -22,7 +22,7 @@ description: 学习中的心得与问题，欢迎讨论
 # TODO：右上角的about me，第一个选项
 navbar-links:
   主页: ""
-  博客标签: "https://soleil0707.github.io/Soleil-/tags"
+  博客标签: "https://soleil0707.github.io/tags"
   个人介绍: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -39,7 +39,7 @@ navbar-links:
 # then specify the following parameter
 # title-img: /path/to/image
 # TODO　左上方的头像
-title-img: /img/avatar/aipad.ico
+title-img: /img/avatar/aipad.png
 
 # --- Background colour/image options --- #
 
@@ -105,7 +105,7 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 # TODO　网页最下面的网址
 # url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
-# url-pretty: "soleil0707.github.io/Soleil-/"
+# url-pretty: "soleil0707.github.io/"
 
 # --- Web Statistics Section --- #
 
@@ -137,7 +137,7 @@ share-links-active:
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : #"Soleil0707/Soleil-" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : #"Soleil0707/Soleil0707.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : #https://staticman3.herokuapp.com/v3/entry/github # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
