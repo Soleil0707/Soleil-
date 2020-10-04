@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Soleil的小屋
+title: Soleil的博客
 
 # Short description of your site
-description: 技术交流，分享心得
+description: 学习中的心得与问题，欢迎讨论
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
