@@ -11,30 +11,35 @@ description: 学习中的心得与问题，欢迎讨论
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://soleil0707.github.io/Soleil-/"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 # TODO：右上角的about me，第一个选项
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  我的博文: ""
+  个人介绍: "aboutme"
+  TAGS: "https://soleil0707.github.io/Soleil-/tags"
+  # Resources:
+    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    # - Learn markdown: "http://www.markdowntutorial.com/"
+  # Author's home: "http://deanattali.com"
+  搜索: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 # TODO：网页中央上方的头像
-avatar: "/img/aipad.jpg"
+# avatar: "/img/aipad.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
+# TODO　左上方的头像
+title-img: "/img/aipad.jpg"
 
 # --- Background colour/image options --- #
 
@@ -52,7 +57,7 @@ footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
-
+# TODO 页脚 页眉 页面的颜色或背景图
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
@@ -99,6 +104,7 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 # TODO　网页最下面的网址
 # url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "soleil0707.github.io/Soleil-/"
 
 # --- Web Statistics Section --- #
 
