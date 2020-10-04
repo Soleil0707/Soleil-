@@ -155,6 +155,7 @@ utterances:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
+# TODO 记录博客内容在首页显示的字数
 excerpt_length: 30
 
 # Character used to separate site title and description in HTML document title
@@ -162,12 +163,14 @@ excerpt_length: 30
 title-separator: "-"
 
 # Ruby Date Format
+# 博客的更新时间格式，月 日 年
 date_format: "%B %-d, %Y"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Shanghai"
+# timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
