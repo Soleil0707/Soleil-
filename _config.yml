@@ -11,10 +11,10 @@ description: 学习中的心得与问题，欢迎讨论
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://soleil0707.github.io/Soleil-/"
+# url: "https://soleil0707.github.io/Soleil-/"
 
 # baseurl should be an empty string
-baseurl: ""
+# baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -104,7 +104,7 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 # TODO　网页最下面的网址
 # url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
-url-pretty: "soleil0707.github.io/Soleil-/"
+# url-pretty: "soleil0707.github.io/Soleil-/"
 
 # --- Web Statistics Section --- #
 
