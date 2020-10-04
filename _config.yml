@@ -95,7 +95,7 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-# 每篇博客下面的分享按钮
+# TODO 每篇博客下面的分享按钮
 share-links-active:
   twitter: false
   facebook: false
