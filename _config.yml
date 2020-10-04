@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-# 网页最下方的作者名
+# TODO　网页最下方的作者名
 author:
   name: Soleil
 
@@ -69,7 +69,7 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-# 网页下方的图标，各种联系方式
+# TODO 网页下方的图标，各种联系方式
 social-network-links:
   # rss: true
   email: "yangguang2048@gmail.com"
@@ -97,7 +97,8 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# TODO　网页最下面的网址
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -154,7 +155,7 @@ utterances:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 30
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
