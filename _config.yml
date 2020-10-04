@@ -21,7 +21,7 @@ description: 学习中的心得与问题，欢迎讨论
 # List of links in the navigation bar
 # TODO：右上角的about me，第一个选项
 navbar-links:
-  About Me: "about me"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
