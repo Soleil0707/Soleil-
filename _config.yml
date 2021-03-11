@@ -4,7 +4,7 @@
 title: Soleil的博客
 
 # Short description of your site
-description: 学习中的心得与问题，欢迎讨论
+description: 随便写写
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -39,7 +39,7 @@ navbar-links:
 # then specify the following parameter
 # title-img: /path/to/image
 # TODO　左上方的头像
-title-img: /img/avatar/aipad.png
+title-img: /img/avatar/Dennis&Thompson.jpg
 
 # --- Background colour/image options --- #
 
