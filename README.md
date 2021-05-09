@@ -326,7 +326,9 @@ If you do fork or clone this project to use as a template for your site, I would
 
 # 自己添加的说明
 所以博文放在`_posts`目录下。
-博文命名规则为：年-月-日-标题
+
+博文命名规则为："年-月-日-标题"
+
 每个markdown文档的开头使用yaml格式进行说明，具体格式为两组三横线，中间加入信息。
 ``` yaml
 ---
