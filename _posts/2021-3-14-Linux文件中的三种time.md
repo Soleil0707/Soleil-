@@ -10,13 +10,13 @@ comments: false
 
 使用`ls -l 文件名`命令可以查看一个文件的详细属性信息。其中包括了一个时间戳。
 
-![image-20210315184850922](https://gitee.com/liang_qi/bolg-image/raw/master/img/image-20210315184850922.png)
+![image-20210315184850922](https://gitee.com/liang_qi/blog-image/raw/master/img/image-20210315184850922.png)
 
 这个时间戳表示了上一次本文件的**内容数据**变更的时间。
 
 事实上，Linux中每个文件包含了三个时间戳，可通过`stat 文件名`查看。
 
-![image-20210315185101743](https://gitee.com/liang_qi/bolg-image/raw/master/img/image-20210315185101743.png)
+![image-20210315185101743](https://gitee.com/liang_qi/blog-image/raw/master/img/image-20210315185101743.png)
 
 按照首字母，可以称它们为：atime、mtime、ctime。
 
