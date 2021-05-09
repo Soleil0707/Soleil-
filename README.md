@@ -323,3 +323,16 @@ If you do fork or clone this project to use as a template for your site, I would
 - If you have a project page and you want a custom 404 page, you must have a custom domain.  See https://help.github.com/articles/custom-404-pages/.  This means that if you have a regular User Page you can use the 404 page from this theme, but if it's a website for a specific repository, the 404 page will not be used.
 
 - If there are many navigation bar links and avatar, some of the links may get partially hidden behind the avatar. 
+
+# 自己添加的说明
+所以博文放在`\_posts`目录下。
+博文命名规则为：年-月-日-标题
+每个markdown文档的开头使用yaml格式进行说明，具体格式为两组三横线，中间加入信息。
+``` yaml
+---
+layout: post
+title: 此处输入标题
+tags: [tag1, tag2]
+comments: false
+---
+```
